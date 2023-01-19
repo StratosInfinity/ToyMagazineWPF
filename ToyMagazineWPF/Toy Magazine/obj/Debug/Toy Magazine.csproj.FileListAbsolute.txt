@@ -1,0 +1,46 @@
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.csproj.AssemblyReference.cache
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\App.g.cs
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine_MarkupCompile.cache
+D:\Проект\Toy Magazine\Toy Magazine\bin\Debug\Toy Magazine.exe.config
+D:\Проект\Toy Magazine\Toy Magazine\bin\Debug\Toy Magazine.exe
+D:\Проект\Toy Magazine\Toy Magazine\bin\Debug\Toy Magazine.pdb
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\MainWindow.g.cs
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine_MarkupCompile.lref
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\MainWindow.baml
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.g.resources
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy_Magazine.Properties.Resources.resources
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.csproj.GenerateResource.cache
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.csproj.CoreCompileInputs.cache
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.exe
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Toy Magazine.pdb
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Profile.g.cs
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Profile.baml
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Busket.g.cs
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Busket.baml
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Style.baml
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\App.baml
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Cataloge.g.cs
+D:\Проект\Toy Magazine\Toy Magazine\obj\Debug\Cataloge.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\bin\Debug\Toy Magazine.exe.config
+D:\Проект\ToyMagazineWPF\Toy Magazine\bin\Debug\Toy Magazine.exe
+D:\Проект\ToyMagazineWPF\Toy Magazine\bin\Debug\Toy Magazine.pdb
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.csproj.AssemblyReference.cache
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine_MarkupCompile.cache
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine_MarkupCompile.lref
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.g.resources
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy_Magazine.Properties.Resources.resources
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.csproj.GenerateResource.cache
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.csproj.CoreCompileInputs.cache
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.exe
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Toy Magazine.pdb
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Style.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Busket.g.cs
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Cataloge.g.cs
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\MainWindow.g.cs
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Profile.g.cs
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\App.g.cs
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\App.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Busket.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Cataloge.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\MainWindow.baml
+D:\Проект\ToyMagazineWPF\Toy Magazine\obj\Debug\Interface\Profile.baml

@@ -1,0 +1,38 @@
+﻿<Window x:Class="Toy_Magazine.Cataloge"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toy_Magazine"
+        mc:Ignorable="d"
+        Title="Cataloge" Height="450" Width="800"
+         ResizeMode="NoResize"
+        Background="#faf0e6"
+        WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing">
+    <Grid>
+        <Label FontWeight="Bold" Content="Машинка" Margin="360,60,342,316"></Label>
+        <Label FontWeight="Bold" Content="Кукла" Margin="372,175,350,198"></Label>
+        <Label FontWeight="Bold" Content="Мечь" Margin="374,300,350,68"></Label>
+        <StackPanel HorizontalAlignment="Right">
+            <Button x:Name="BuyCar" Style="{StaticResource BaseButtonStyle}" Margin="0,50,10,30"  HorizontalAlignment="Left" VerticalAlignment="Top" Content="Купить" Click="BuyCar_Click"/>
+            <Button x:Name="BuyDoll" Style="{StaticResource BaseButtonStyle}"  Margin="0,50,30,30" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Купить" Click="BuyDoll_Click"/>
+            <Button x:Name="BuySworld" Style="{StaticResource BaseButtonStyle}" Margin="0,50,10,30"  HorizontalAlignment="Left" VerticalAlignment="Top" Content="Купить" Click="BuySworld_Click"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right">
+            <Label FontWeight="Bold" Margin="0,60,250,30" Content="1000p"/>
+            <Label FontWeight="Bold"  Margin="0,60,250,30"  Content="1500p"/>
+            <Label FontWeight="Bold" Margin="0,70,250,30"  Content="2000p"/>
+        </StackPanel>
+        <StackPanel Margin="-120,0,0,0">
+            <Image Margin="0,30,140,10" Height="100" Width="100" Source="/Resources/logo.png" />
+            <Image Margin="277,0,417,20" Height="100" Width="100" Source="/Resources/logo.png" />
+            <Image  Margin="0,0,140,20" Height="100" Width="100" Source="/Resources/logo.png" />
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Left">
+            <Button x:Name="Profile" Style="{StaticResource BaseButtonStyle}" Margin="30,50,10,30"  HorizontalAlignment="Left" VerticalAlignment="Top" Content="Профиль" Click="Profile_Click"/>
+            <Button x:Name="Busket" Style="{StaticResource BaseButtonStyle}"  Margin="30,50,0,30" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Корзина" Click="Busket_Click"/>
+            <Button x:Name="Exit" Style="{StaticResource BaseButtonStyle}" Margin="30,50,10,30"  HorizontalAlignment="Left" VerticalAlignment="Top" Content="Выход" Click="Exit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
